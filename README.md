@@ -61,26 +61,26 @@ python main.py --source 0
 
 📊 Applications
 
-Traffic Monitoring
+-> Traffic Monitoring
 
-Vehicle Counting
+-> Vehicle Counting
 
-Smart City Surveillance
+-> Smart City Surveillance
 
-Accident Detection
+-> Accident Detection
 
-Highway Analysis
+-> Highway Analysis
 
 
 📌 Future Enhancements
 
-Add speed estimation
+-> Add speed estimation
 
-Vehicle type classification
+-> Vehicle type classification
 
-License plate recognition
+-> License plate recognition
 
-Integration with dashboard
+-> Integration with dashboard
 
 
 👨‍💻 Author
