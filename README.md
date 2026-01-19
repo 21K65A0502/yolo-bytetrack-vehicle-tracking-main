@@ -17,15 +17,15 @@ A real-time vehicle detection and tracking system using YOLO (You Only Look Once
 
 🏗️ Tech Stack
 
-Python
+-> Python
 
-YOLOv8 (or YOLOv7/YOLOv5 – adjust as per your implementation)
+-> YOLOv8 (or YOLOv7/YOLOv5 – adjust as per your implementation)
 
-ByteTrack
+-> ByteTrack
 
-OpenCV
+-> OpenCV
 
-NumPy
+-> NumPy
 
 
 📂 Project Structure (Example)
@@ -47,7 +47,7 @@ git clone https://github.com/your-username/yolo-bytetrack-vehicle-tracking-main.
 cd yolo-bytetrack-vehicle-tracking-main
 
 
-3. Install dependencies
+2. Install dependencies
 pip install -r requirements.txt
 
 
