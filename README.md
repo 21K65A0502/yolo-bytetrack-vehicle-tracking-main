@@ -14,6 +14,7 @@ A real-time vehicle detection and tracking system using YOLO (You Only Look Once
 
 ✅ Suitable for traffic analysis and smart surveillance
 
+
 🏗️ Tech Stack
 
 Python
@@ -26,6 +27,7 @@ OpenCV
 
 NumPy
 
+
 📂 Project Structure (Example)
 yolo-bytetrack-vehicle-tracking-main/
 │── models/
@@ -36,16 +38,18 @@ yolo-bytetrack-vehicle-tracking-main/
 │── requirements.txt
 │── README.md
 
-
 (You can modify this based on your actual folder structure.)
+
 
 ⚙️ Installation
 1. Clone the repository
 git clone https://github.com/your-username/yolo-bytetrack-vehicle-tracking-main.git
 cd yolo-bytetrack-vehicle-tracking-main
 
-2. Install dependencies
+
+3. Install dependencies
 pip install -r requirements.txt
+
 
 ▶️ Usage
 Run on a video file:
@@ -53,6 +57,7 @@ python main.py --source videos/traffic.mp4
 
 Run on webcam:
 python main.py --source 0
+
 
 📊 Applications
 
@@ -66,6 +71,7 @@ Accident Detection
 
 Highway Analysis
 
+
 📌 Future Enhancements
 
 Add speed estimation
@@ -75,6 +81,7 @@ Vehicle type classification
 License plate recognition
 
 Integration with dashboard
+
 
 👨‍💻 Author
 
